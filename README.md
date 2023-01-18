@@ -2,7 +2,7 @@
 
 - I'm currently a climate scientist 
 - I am currently learning software and web development skills
-- Contact me by [email](mailto:samjferrett@gmail.com)
+- Contact me by [email](mailto:samferrett2@gmail.com)
 - Check out some of my recent projects in my repositories
 
 ### Languages I know or am learning:
