@@ -1,7 +1,6 @@
 ## Hi all, I'm Sam Ferrett. 
 
-- I'm currently a climate scientist 
-- I am currently learning new skills
+- I'm currently a climate scientist, learning new skills
 - Contact me by [email](mailto:samferrett2@gmail.com)
 - Check out some of my recent projects in my repositories
 
